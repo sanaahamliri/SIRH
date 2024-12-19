@@ -1,0 +1,11 @@
+{
+    "type": "mysql",
+    "host": "localhost",
+    "port": 8080,
+    "username": "root",
+    "password": "12345678",
+    "database": "sirh",
+    "entities": ["dist/**/*.entity{.ts,.js}"],
+    "synchronize": true
+  }
+  
